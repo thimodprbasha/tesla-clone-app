@@ -2,7 +2,7 @@
     🚗 Tesla Clone App using React Native 
 <h1>
 
-> 🏠 Tesla App using React Native
+> 🏠 Tesla App 
 
 <!-- ![screen](github/snippet1.png ) -->
 <img src="github/snippet1.png" width="400" height="850">
