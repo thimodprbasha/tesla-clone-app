@@ -9,20 +9,20 @@
 
 #### To install locally
 
-1. Clone repo on your local machine:
+1.Clone repo on your local machine:
 
 ```js
  git clone
 ```
 
-Install server-side dependencies:
+2.Install server-side dependencies:
 
 ```js
- cd TeslaClone
+ cd tesla-clone-app
  npm install
 ```
 
-Now to start the app
+3.Now to start the app
 
 ```js
  npm start / expo start
